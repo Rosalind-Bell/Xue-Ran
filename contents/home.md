@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Rosalind-Bell](https://img.shields.io/badge/Rosalind-Bell-github-blue?logo=github)](https://github.com/Rosalind-Bell)
 
 I'm currently pursuing a Bachelor's degree in Electronic Information Science and Technology at the Department of Electronic Engineering, Tsinghua University, China.
 
