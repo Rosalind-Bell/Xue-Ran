@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 国家奖学金, 2025.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- National Scholarship, Tsinghua University, 2025. 
